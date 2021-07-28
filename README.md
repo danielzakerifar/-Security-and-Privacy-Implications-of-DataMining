@@ -1,3 +1,3 @@
-# -Security-and-Privacy-Implications-of-DataMining
+# Security and Privacy Implications of Data Mining
 Analyzing Privacy Vulnerability of the Dataset, and Propose How to Prevent Attacks
 Recently, one of the subjects that many people has been studied on that is Publishing a dataset with preserving privacy.  It happend alot that some sensetive information of individuals com-promised when the sencus financial data of the people,  health profile data has been revealed.Privacy-Preserving  Data  Publishing  (PPDP)  is  mainly  effective  at  the  time  of  modeling  anydatabase to table schema, where each row collectively contains information of a human being ora subject system[4]
